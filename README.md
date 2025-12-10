@@ -26,7 +26,7 @@ I am currently architecting a production-grade **SaaS Task Management Platform**
 
 * **Architecture:** Event-Driven Microservices (Spring Cloud)
 * **Core Challenge:** Implementing **Database-per-Tenant** isolation for true Multi-tenancy.
-* **Tech Stack:** Spring Boot 3, Kafka, PostgreSQL, Keycloak (Auth), Docker & Kubernetes.
+* **Tech Stack:** Spring Boot 3, Rabbirmq, PostgreSQL, MongoDB, Docker & Kubernetes.
 * **Goal:** To build a system capable of handling high concurrency with strict data isolation.
 
 ---
