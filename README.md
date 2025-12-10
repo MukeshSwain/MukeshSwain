@@ -4,8 +4,8 @@
   
   ### 🎓 Master's Graduate | Backend Engineer | Microservices Architect
 
-  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mukesh-swain-0808ab2b5) 
-  [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mukeshswain2844@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-swain-0808ab2b5) 
+  [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukeshswain2844@gmail.com)
   [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-six-taupe-66.vercel.app)
 
 </div>
