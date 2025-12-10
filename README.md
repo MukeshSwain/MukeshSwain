@@ -51,15 +51,11 @@ I am currently architecting a production-grade **SaaS Task Management Platform**
 ---
 
 ### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukeshSwain&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="180" alt="stats" />
-  
+<div align="center">  
   <img src="https://streak-stats.demolab.com?user=MukeshSwain&theme=tokyonight&hide_border=true&v=2" height="180" alt="streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshSwain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" height="180" alt="languages" />
-</div>
+
 
 ---
 
